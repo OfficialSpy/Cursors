@@ -1,0 +1,2 @@
+# norbit
+Norbit discord bot
