@@ -1,5 +1,5 @@
 {
-    "token" : "ODgyNTU1MzcyNzA2MDc4ODEx.YS9FvQ._pEMq7gThKTL6d8kmIdKzian6Uo",
-    "prefix": ";",
-    "mongooseConnectString": "mongodb+srv://Norbit:XaqQ4HbDX*!8b9P@norbitbot.yvxsh.mongodb.net/data"
+    "token" : "",
+    "prefix": "",
+    "mongooseConnectString": ""
 }
