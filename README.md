@@ -5,9 +5,6 @@ Current List:
 	 • Light and Dark Modes
 	 • Multiple Colors
 
-- Comix Cursor Pack
-	 • Light and Dark Modes
-
 - Hacked Mod Cursor Pack
 	 • Light and Dark Modes
 	 • Bonus Colors Included
@@ -19,7 +16,7 @@ Current List:
 	 • Light and Dark Modes
 	 • Multiple Colors
 
- ○ Windows 11 Cursor Pack
+- Windows 11 Cursor Pack
 	 • Light and Dark Mode
 	 • Bonus Cursors
 
