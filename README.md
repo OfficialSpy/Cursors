@@ -21,3 +21,4 @@ Current List:
 	 • Bonus Cursors
 
 DM OfficialSpy#7261 for any queries
+Install the .zip file
