@@ -20,5 +20,5 @@ Current List:
 	 • Light and Dark Mode
 	 • Bonus Cursors
 
-DM OfficialSpy#7261 for any queries
-Install the .zip file
+- DM OfficialSpy#7261 for any queries
+- Install the .zip file
