@@ -22,3 +22,4 @@ Current List:
 
 - DM OfficialSpy#7261 for any queries
 - Install the .zip file
+- Click on the green button that says "Code" and download the ZIP
